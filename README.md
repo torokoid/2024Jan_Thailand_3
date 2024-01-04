@@ -128,13 +128,47 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-<br><p>タイ旅行</p>
+<br><p>バンコク観光</p>
 
+<a href="20240104_001.JPG" data-lightbox="abc"><img src="20240104_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_002.JPG" data-lightbox="abc"><img src="20240104_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_003.JPG" data-lightbox="abc"><img src="20240104_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_004.JPG" data-lightbox="abc"><img src="20240104_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_005.JPG" data-lightbox="abc"><img src="20240104_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_006.JPG" data-lightbox="abc"><img src="20240104_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_007.JPG" data-lightbox="abc"><img src="20240104_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_008.JPG" data-lightbox="abc"><img src="20240104_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_009.JPG" data-lightbox="abc"><img src="20240104_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_010.JPG" data-lightbox="abc"><img src="20240104_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_011.JPG" data-lightbox="abc"><img src="20240104_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_012.JPG" data-lightbox="abc"><img src="20240104_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_013.JPG" data-lightbox="abc"><img src="20240104_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_014.JPG" data-lightbox="abc"><img src="20240104_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_015.JPG" data-lightbox="abc"><img src="20240104_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_016.JPG" data-lightbox="abc"><img src="20240104_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_017.JPG" data-lightbox="abc"><img src="20240104_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_018.JPG" data-lightbox="abc"><img src="20240104_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_019.JPG" data-lightbox="abc"><img src="20240104_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_020.JPG" data-lightbox="abc"><img src="20240104_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_021.JPG" data-lightbox="abc"><img src="20240104_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_022.JPG" data-lightbox="abc"><img src="20240104_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_023.JPG" data-lightbox="abc"><img src="20240104_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_024.JPG" data-lightbox="abc"><img src="20240104_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_025.JPG" data-lightbox="abc"><img src="20240104_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_026.JPG" data-lightbox="abc"><img src="20240104_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_027.JPG" data-lightbox="abc"><img src="20240104_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_028.JPG" data-lightbox="abc"><img src="20240104_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_029.JPG" data-lightbox="abc"><img src="20240104_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_030.JPG" data-lightbox="abc"><img src="20240104_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_031.JPG" data-lightbox="abc"><img src="20240104_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_032.JPG" data-lightbox="abc"><img src="20240104_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_033.JPG" data-lightbox="abc"><img src="20240104_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240104_034.JPG" data-lightbox="abc"><img src="20240104_034.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<!--
 <br><br><p>以下写真集！</p>
 <p>1月2日はバンコクからパタヤまでお出かけしました。</p>
-
+-->
 
 
 
