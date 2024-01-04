@@ -123,7 +123,7 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/01/02 、バンコク~パタヤ往復 !!!</marquee></span></h1>
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>>Thailand_2</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>>Thailand_3</p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
