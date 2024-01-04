@@ -147,8 +147,11 @@ p.note { display: none; }
 <p>銀行や公共施設で必ず見かける、王室崇拝のオブジェ、ここは特に立派でした</p>
 <a href="20240104_008.JPG" data-lightbox="abc"><img src="20240104_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240104_009.JPG" data-lightbox="abc"><img src="20240104_009.JPG" alt="サンプル画像" width="900" /></a>
+<p>現在の王様</p>
 <a href="20240104_010.JPG" data-lightbox="abc"><img src="20240104_010.JPG" alt="サンプル画像" width="900" /></a>
+<p>王様の家族たち</p>
 <a href="20240104_011.JPG" data-lightbox="abc"><img src="20240104_011.JPG" alt="サンプル画像" width="900" /></a>
+<p>王様の別アングル映像</p>
 <a href="20240104_012.JPG" data-lightbox="abc"><img src="20240104_012.JPG" alt="サンプル画像" width="900" /></a>
 <p>玄関の外では犬が暑さでダウン、タイの犬は全て放し飼いです</p>
 <a href="20240104_013.JPG" data-lightbox="abc"><img src="20240104_013.JPG" alt="サンプル画像" width="900" /></a>
